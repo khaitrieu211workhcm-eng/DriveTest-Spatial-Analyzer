@@ -38,3 +38,12 @@ Trong việc vận hành và tối ưu mạng di động, việc xử lý các t
 2. Sử dụng lần lượt các câu lệnh sau để cài đặt thư viện và khởi chạy ứng dụng:
 - py -m pip install -r requirements.txt
 - C:\Users\PC\AppData\Local\Programs\Python\Python39\python.exe -m streamlit run src/app.py
+
+  <img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/cc677be6-26a8-4465-8a8a-b246a257471d" />
+  <img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/028f00db-98f5-4e79-a0cb-92718119d0be" />
+  <img width="1920" height="812" alt="image" src="https://github.com/user-attachments/assets/1c576a21-d139-4e34-8743-12562b53895c" />
+  <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/b0407751-fdf5-407c-bfa6-39804ec63229" />
+  <img width="1920" height="789" alt="image" src="https://github.com/user-attachments/assets/f55ee35e-778d-47d8-93f1-430dca90a2ff" />
+
+
+
