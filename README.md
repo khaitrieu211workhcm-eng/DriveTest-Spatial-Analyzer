@@ -36,5 +36,5 @@ Trong việc vận hành và tối ưu mạng di động, việc xử lý các t
 
 1. Mở Terminal trong VS Code bằng phím tắt: `Ctrl + ~`
 2. Sử dụng lần lượt các câu lệnh sau để cài đặt thư viện và khởi chạy ứng dụng:
-py -m pip install -r requirements.txt
-C:\Users\PC\AppData\Local\Programs\Python\Python39\python.exe -m streamlit run src/app.py
+- py -m pip install -r requirements.txt
+- C:\Users\PC\AppData\Local\Programs\Python\Python39\python.exe -m streamlit run src/app.py
