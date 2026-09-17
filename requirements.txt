@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+folium==0.15.1
+branca==0.7.2
+streamlit-folium==0.15.1
+reportlab>=4.0
+ 
